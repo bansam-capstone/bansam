@@ -10,26 +10,25 @@
 | Novianti Safitri                    | Mobile Development | Universitas Mulawarman | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noviantisafitri2104/)            |
 | Muhammad Fauzan Gifari Dzul Fahmi   | Mobile Development | Universitas Mulawarman | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fauzan-gifari/)         | 
 
-# **BanSam App**
+# **BANSAM App**
 ![Group 38](https://github.com/user-attachments/assets/1ea0ee35-61dd-4375-ab37-9467953660f0)
 
-The BanSam App is a flood monitoring and prediction application designed to 
+The BANSAM App is a flood monitoring and prediction application designed to 
 provide real-time flood alerts and flood risk predictions for the city of Samarinda. 
-The app leverages Machine Learning to predict floods based on historical and real-time 
+This app uses Machine Learning to predict floods based on historical and real-time 
 data and uses Cloud Computing for backend support and Mobile Development to deliver a 
-user-friendly interface for residents. By providing real-time data and alerts, 
-the app helps local communities stay informed and prepared for potential flooding events.
+user-friendly interface for residents. By providing real-time data and alerts, BANSAM helps local communities stay informed and prepared for potential flooding events.
 
 # **Installation**
-To install the BanSam App, click on the following link to download the APK file:
-[Download BanSam App](https://drive.google.com/file/d/1KdAr69hBYPMAk5ZJ55T09nrei2DFiUBH/view?usp=sharing)
+To install the BANSAM App, click on the following link to download the APK file:
+[Download BANSAM App](https://drive.google.com/file/d/1KdAr69hBYPMAk5ZJ55T09nrei2DFiUBH/view?usp=sharing)
 After downloading the APK file, open the file on your Android device to install the app.
 
 # **Demonstration**
-To see a demonstration of the BanSam App, watch the following video:
-[BanSam App Demo](https://drive.google.com/file/d/10YhrsMoF2VSutGkXYkBoUy-HG2cLd21I/view?usp=sharing)
+To see a demonstration of the BANSAM App, watch the following video:
+[BANSAM App Demo](https://drive.google.com/file/d/10YhrsMoF2VSutGkXYkBoUy-HG2cLd21I/view?usp=sharing)
 
-# **Bansam App Features**
+# **BANSAM App Features**
 * Flood Prediction for High-Risk Locations:
   - Machine Learning models predict flood risks at various high-risk locations Samarinda, offering forecasts for both today’s flood status and tomorrow’s potential floods.
   - This feature enables users to be informed of possible flooding in the near future, allowing them to take proactive measures.
@@ -57,8 +56,8 @@ To see a demonstration of the BanSam App, watch the following video:
 * **Multi-Language Support**: Add support for multiple languages to make the app accessible to a wider audience. By offering language options, the app can reach more users and provide valuable flood information to diverse communities.
 
 # **Repository**
-The BanSam App repository contains the following directories and files:
-* [Machine Learning Repository](https://github.com/bansam-capstone/machine-learning)
-* [Cloud Computing Repository](https://github.com/bansam-capstone/cloud-computing)
-* [Mobile Development Repository](https://github.com/bansam-capstone/mobile-development)
+The BANSAM App repository contains the following directories and files:
+* [Machine Learning Repository](https://github.com/BANSAM-capstone/machine-learning)
+* [Cloud Computing Repository](https://github.com/BANSAM-capstone/cloud-computing)
+* [Mobile Development Repository](https://github.com/BANSAM-capstone/mobile-development)
     

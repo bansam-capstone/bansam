@@ -1,5 +1,9 @@
-# **Team Members - CH42-PS018**
+<h1 align="center">BANSAM</h1>
+<h3 align="center">Banjir Alert and Monitoring System Samarinda</h3>
 
+![bansam-image](https://github.com/user-attachments/assets/eb145f89-2b05-4505-bc40-1cdb346d7e8e)
+
+# **Team Members - CH42-PS018**
 | **Member**                          | **Path**           | **University**         | **Contact**                                                                                                                                                   |
 |-------------------------------------|--------------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dinnuhoni Trahutomo                 | Machine Learning   | Universitas Mulawarman | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinnuhoni23/)                    |
